@@ -4,14 +4,38 @@
     box-sizing: border-box;
 }
 
+html {
+    background-color: grey;
+}
+
 body {
     font-family: 'Courier New', 'Times New Roman', Times, serif;
     font-weight: 400;
     font-style: normal;
     width: auto;
     max-width: 900px;
+    margin: auto;
+    background-color: white;
 }
 
 p {
     padding: 1.2rem;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: black;
+    height: auto;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: orange;
 }
