@@ -33,7 +33,13 @@ footer {
     height: auto;
     width: auto;
     display: flex;
+    flex: auto;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    padding: 15px;
+
 }
+
 
 a:link {
     color: orange;
