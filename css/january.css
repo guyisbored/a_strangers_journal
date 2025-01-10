@@ -29,7 +29,10 @@ img{
 
 footer {
     background-color: black;
+    color: white;
     height: auto;
+    width: auto;
+    display: flex;
 }
 
 a:link {
