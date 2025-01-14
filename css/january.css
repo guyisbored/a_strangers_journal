@@ -48,3 +48,7 @@ a:link {
 a:visited {
     color: orange;
 }
+
+#poem p {
+    padding: .5rem;
+}
